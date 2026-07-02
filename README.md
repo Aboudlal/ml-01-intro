@@ -202,6 +202,18 @@ If possible, replace these to present interesting results from your custom proje
 
 ![Provide a Useful Caption](./docs/images/Figure_2.png)
 
+## Custom Command
+
+Run the original example:
+
+```shell
+uv run python -m mlstudio.app_case
+
+Run my custom technical modification:
+
+uv run python -m mlstudio.app_abdellah
+
+
 ## Project Documentation
 
 Additional project instructions, terms, and notes:

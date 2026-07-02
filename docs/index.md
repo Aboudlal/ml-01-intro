@@ -76,3 +76,13 @@ Include:
 - What kinds of real problems you could apply these skills to in the future
 
 Display at least one image or screenshot showing your work.
+## Phase 4. Technical Modification
+
+For Phase 4, I made a small technical modification by copying the original example file `app_case.py` and creating my own file named `app_abdellah.py`.
+
+I kept the original example file unchanged so it can still work as a reference. In my custom file, I changed the new student case used for prediction. The original example predicted a score for a student with 6.5 hours studied, 4 practice quizzes, 92% attendance, 7.0 sleep hours, and a prior score of 72. My custom version predicts a score for a higher-performing student with 8.5 hours studied, 6 practice quizzes, 97% attendance, 7.5 sleep hours, and a prior score of 80.
+
+I verified the change by running:
+
+```shell
+uv run python -m mlstudio.app_abdellah
