@@ -3,8 +3,8 @@
 An example of a supervised regression case.
 This app is used to verify project workflow.
 
-Author: Denise Case
-Date: 2026-06
+Author: Abdellah Boudlal
+Date: 2026-07
 
 Process:
     - Load a CSV dataset.
